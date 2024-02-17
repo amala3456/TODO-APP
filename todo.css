@@ -1,0 +1,20 @@
+ @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;0,700;1,500&display=swap');
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th,td {
+    border: 5px solid red;
+    text-align: left;
+    padding: 8px;
+    background-color: aquamarine;
+  }
+  th {
+    background-color: rgb(94, 94, 226);
+  }
+  
+#he1{
+  text-align: center;
+}
